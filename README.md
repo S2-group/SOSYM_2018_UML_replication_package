@@ -1,5 +1,5 @@
 # SOSYM 2018 replication package
-Replication package of the paper titled “Execution of UML models: A Systematic Review of Research and Practice” published at SOSYM 2018
+Replication package of the paper [Execution of UML models: A Systematic Review of Research and Practice](http://www.ivanomalavolta.com/files/papers/SOSYM_2018.pdf) published in SOSYM 2018
 
 This study has been designed, developed, and reported by the following investigators:
 - [Federico Ciccozzi](http://www.es.mdh.se/staff/266-Federico_Ciccozzi) (School of Innovation, Design and Engineering, Malardalen University, Västerås, Sweden)
