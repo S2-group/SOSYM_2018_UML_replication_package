@@ -1,18 +1,19 @@
-# SOSYM_2018_UML_replication_package
-Replication package of the paper titled “Execution of UML models: A Systematic Review of Research and Practice” published at SOSYM 2018
+==== What is this archive?
+
+This archive contains the replication package of the paper titled “Execution of UML models: A Systematic Review of Research and Practice”.
 
 This study has been designed, developed, and reported by the following investigators:
-- [Federico Ciccozzi](http://www.es.mdh.se/staff/266-Federico_Ciccozzi) (School of Innovation, Design and Engineering, Malardalen University, Västerås, Sweden)
-- [Ivano Malavolta](https://www.ivanomalavolta.com) (Vrije Universiteit, Amsterdam, The Netherlands)
-- [Bran Selic](https://scholar.google.com/citations?user=bzxh-TsAAAAJ&hl=en) (Malina Software Corporation, Ottawa, Canada)
+- Federico Ciccozzi (School of Innovation, Design and Engineering, Malardalen University, Västerås, Sweden)
+- Ivano Malavolta (Vrije Universiteit, Amsterdam, The Netherlands)
+- Bran Selic (Malina Software Corporation, Ottawa, Canada)
 
-For any information, interested researchers can contact us by writing an email to [federico.ciccozzi@mdh.se](mailto:federico.ciccozzi@mdh.se) or [i.malavolta@vu.nl](mailto:i.malavolta@vu.nl)
+For any information, interested researchers can contact us by writing an email to federico.ciccozzi@mdh.se or i.malavolta@vu.nl
 
-## Structure of the replication package
+==== Structure of the replication package
 
 This replication package is organized according to the following structure.
 
-- readme.md: the file you are reading right now.
+- readme.txt: the file you are reading right now.
 - protocol.pdf: a document containing the review protocol we followed for executing the whole study.
 - dataExtractionForm.pdf: a document containing the detailed explaination of all the parameters of the classification framework used in this study.
 
@@ -57,25 +58,6 @@ This replication package is organized according to the following structure.
 -- "X": the exclusion criterion is NOT satisfied
 -- blank: the exclusion criterion is not evaluated because some other criterion already dominates it 
 
-This means that a primary study is included in our study if:
+This means that a primary study is included in our study if:\
 - all its inclusion criteria are "-"
 - all its exclusion criteria are "X"
-
-## How to cite our work
-If our study is helping your research, consider to cite is as follows, thanks!
-
-```
-@article{SOSYM_2018,
-  url = { http://www.ivanomalavolta.com/files/papers/SOSYM_2018.pdf },
-  number = { 1 },
-  volume = { 18 },
-  pages = { 1-48 },
-  publisher = { Springer },
-  doi = { 10.1007/s10270-018-0675-4 },
-  issn = { 1619-1374 },
-  year = { 2018 },
-  journal = { Software {\&} Systems Modeling },
-  title = { Execution of UML models: a systematic review of research and practice },
-  author = { Federico Ciccozzi and Ivano Malavolta and Bran Selic },
-}
-```
